@@ -26,6 +26,6 @@ Foster a sense of community and engagement among users by connecting them with l
 3.  Cart and Checkout <br>
     • Users can add items to their shopping cart and proceed to checkout <br>
 4. Order History <br>
-    • Users can view their order history and track shipments
-https://docs.google.com/document/d/1IRcZCV6N7vsSA7Vsb4agHNgEkFnJZVv-N_8tHLRCGyA/edit
+    • Users can view their order history and track shipments <br>
+[Proposal Link]https://docs.google.com/document/d/1IRcZCV6N7vsSA7Vsb4agHNgEkFnJZVv-N_8tHLRCGyA/edit
 
