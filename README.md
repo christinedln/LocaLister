@@ -2,13 +2,13 @@
 
 **Objectives:** <br>
 • Support Local Brands <br>
-        Create a platform that exclusively showcases and sells clothing and accessories from local fashion designers and brands, thereby supporting local businesses and contributing to economic growth. <br>
+Create a platform that exclusively showcases and sells clothing and accessories from local fashion designers and brands, thereby supporting local businesses and contributing to economic growth. <br>
 • User-Friendly Shopping <br>
-        Provide users with an easy and convenient online shopping experience where they can discover, browse, and purchase products from local brands. <br>
+Provide users with an easy and convenient online shopping experience where they can discover, browse, and purchase products from local brands. <br>
 • Local Brand Exposure <br>
-        Help local fashion brands reach a broader audience and increase their visibility by featuring their products on the platform. <br>
+Help local fashion brands reach a broader audience and increase their visibility by featuring their products on the platform. <br>
 • Customer Engagement <br>
-        Foster a sense of community and engagement among users by connecting them with local brands and their unique fashion offerings. <br>
+Foster a sense of community and engagement among users by connecting them with local brands and their unique fashion offerings. <br>
 
 
 **SDG:** <br>
@@ -27,4 +27,5 @@
     • Users can add items to their shopping cart and proceed to checkout <br>
 4. Order History <br>
     • Users can view their order history and track shipments
+https://docs.google.com/document/d/1IRcZCV6N7vsSA7Vsb4agHNgEkFnJZVv-N_8tHLRCGyA/edit
 
