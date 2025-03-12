@@ -1,25 +1,28 @@
 # LocaLister <br>
-
-**System Name and Purpose** <br>
-The eSecureVote is an online platform that aims to make the voting process more efficient, secure, and transparent.  It allows eligible voters to register, authenticate their identity, and cast their votes digitally while preventing multiple voting attempts. The system securely stores and tallies votes, eliminating manual counting errors and ensuring accurate results.<br>
-With strong security features, the system protects against fraud by means of encryption and authentication processes. Once voting is over, results are computed instantly and securely announced. Through the digitalization of the election process, this system increases reliability, reduces human intervention, and ensures a fair and reliable electoral system.<br>
-
-**Target Users** <br>
-• Voters. Anyone eligible to participate in an election <br>
-• Election Officials. Individuals or groups responsible for managing elections <br>
-• System Administrators. Technical personnel ensuring the system functions properly <br>
-• Observers & Auditors. Entities ensuring fairness, security, and compliance <br>
-
-**Features** <br>
-• User Authentication - verifies voter identity using face recognition, a password, and a verified list from election officials to prevent unauthorized access <br>
-• Database Management - handles secure storage, retrieval, and organization of voter, candidate, and election data <br>
-• Secure Voting Process  - ensures each voter can cast their vote only once while maintaining anonymity <br>
-• Vote Result Encryption - encrypts votes and results to prevent unauthorized access or manipulation during storage and transmission <br>
-• Results Decryption - securely decrypts election results for authorized officials after voting ends, ensuring transparency <br>
-• Audit and Transparency Feature -  ensures that all actions performed by election officials are tracked and recorded for security, accountability, and transparency <br>
-
-**Relevance to Sustainable Development Goal:** <br>
-The online electoral system is in line with SDG 16: Peace, Justice, and Strong Institutions because it guarantees transparent, accountable, and representative elections. The online electoral system guarantees electoral integrity through encryption and authentication to avert fraud and uphold confidence in the electoral process.<br>
-Besides that, it facilitates SDG 16.7 by providing better access to elections by rural residents or persons with disabilities and ensuring that more participate. The system also facilitates SDG 9: Industry, Innovation, and Infrastructure by harnessing technology to improve governance.<br>
-By making elections free, safe, and accessible, a system like this secures democratic institutions and facilitates sustainable development.
-
+ 
+ **Objectives:** <br>
+ • Support Local Brands
+     Create a platform that exclusively showcases and sells clothing and accessories from local fashion designers and brands, thereby supporting local businesses and contributing to economic growth 
+ • User-Friendly Shopping
+     Provide users with an easy and convenient online shopping experience where they can discover, browse, and purchase products from local brands.
+ • Local Brand Exposure
+     Help local fashion brands reach a broader audience and increase their visibility by featuring their products on the platform.
+ • Customer Engagement
+     Foster a sense of community and engagement among users by connecting them with local brands and their unique fashion offerings.
+ 
+ **SDG:** <br>
+ 8 - Decent Work and Economic Growth
+ 
+ **Overview** <br>
+     The platform functions as a digital marketplace that allows both buyers and sellers to engage in the exchange of clothing and accessories from local fashion brands. It allows users to register accounts, with buyers exploring a variety of fashion product listings and completing transactions. Sellers, on the other hand, can showcase and sell their fashion items.
+ 
+ **Features/How it works:** <br>
+ 1. User Registration and Profiles
+     • Users can create accounts with profile information.
+ 2. Product Listings
+     • Local brands can list their clothing and accessory products with details
+     • Products are categorized for easy browsing
+ 3.  Cart and Checkout
+     • Users can add items to their shopping cart and proceed to checkout
+ 4. Order History
+     • Users can view their order history and track shipments
