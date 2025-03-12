@@ -1,31 +1,25 @@
-# LocaLister
+# LocaLister <br>
 
-**Objectives:** <br>
-• Support Local Brands <br>
-Create a platform that exclusively showcases and sells clothing and accessories from local fashion designers and brands, thereby supporting local businesses and contributing to economic growth. <br>
-• User-Friendly Shopping <br>
-Provide users with an easy and convenient online shopping experience where they can discover, browse, and purchase products from local brands. <br>
-• Local Brand Exposure <br>
-Help local fashion brands reach a broader audience and increase their visibility by featuring their products on the platform. <br>
-• Customer Engagement <br>
-Foster a sense of community and engagement among users by connecting them with local brands and their unique fashion offerings. <br>
+**System Name and Purpose** <br>
+The eSecureVote is an online platform that aims to make the voting process more efficient, secure, and transparent.  It allows eligible voters to register, authenticate their identity, and cast their votes digitally while preventing multiple voting attempts. The system securely stores and tallies votes, eliminating manual counting errors and ensuring accurate results. 
+With strong security features, the system protects against fraud by means of encryption and authentication processes. Once voting is over, results are computed instantly and securely announced. Through the digitalization of the election process, this system increases reliability, reduces human intervention, and ensures a fair and reliable electoral system.
 
+**Target Users** <br>
+• Voters. Anyone eligible to participate in an election <br>
+• Election Officials. Individuals or groups responsible for managing elections <br>
+• System Administrators. Technical personnel ensuring the system functions properly <br>
+• Observers & Auditors. Entities ensuring fairness, security, and compliance <br>
 
-**SDG:** <br>
-8 - Decent Work and Economic Growth <br>
+**Features** <br>
+• User Authentication - verifies voter identity using face recognition, a password, and a verified list from election officials to prevent unauthorized access <br>
+• Database Management - handles secure storage, retrieval, and organization of voter, candidate, and election data <br>
+• Secure Voting Process  - ensures each voter can cast their vote only once while maintaining anonymity <br>
+• Vote Result Encryption - encrypts votes and results to prevent unauthorized access or manipulation during storage and transmission <br>
+• Results Decryption - securely decrypts election results for authorized officials after voting ends, ensuring transparency <br>
+• Audit and Transparency Feature -  ensures that all actions performed by election officials are tracked and recorded for security, accountability, and transparency <br>
 
-**Overview** <br>
-    The platform functions as a digital marketplace that allows both buyers and sellers to engage in the exchange of clothing and accessories from local fashion brands. It allows users to register accounts, with buyers exploring a variety of fashion product listings and completing transactions. Sellers, on the other hand, can showcase and sell their fashion items. <br>
-
-**Features/How it works:** <br>
-1. User Registration and Profiles <br>
-    • Users can create accounts with profile information. <br>
-2. Product Listings <br>
-    • Local brands can list their clothing and accessory products with details <br>
-    • Products are categorized for easy browsing <br>
-3.  Cart and Checkout <br>
-    • Users can add items to their shopping cart and proceed to checkout <br>
-4. Order History <br>
-    • Users can view their order history and track shipments <br>
-[Proposal Link](https://docs.google.com/document/d/1IRcZCV6N7vsSA7Vsb4agHNgEkFnJZVv-N_8tHLRCGyA/edit)
+**Relevance to Sustainable Development Goal:** <br>
+The online electoral system is in line with SDG 16: Peace, Justice, and Strong Institutions because it guarantees transparent, accountable, and representative elections. The online electoral system guarantees electoral integrity through encryption and authentication to avert fraud and uphold confidence in the electoral process.
+Besides that, it facilitates SDG 16.7 by providing better access to elections by rural residents or persons with disabilities and ensuring that more participate. The system also facilitates SDG 9: Industry, Innovation, and Infrastructure by harnessing technology to improve governance.
+By making elections free, safe, and accessible, a system like this secures democratic institutions and facilitates sustainable development.
 
